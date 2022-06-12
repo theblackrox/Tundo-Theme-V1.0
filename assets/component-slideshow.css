@@ -2,6 +2,7 @@ slideshow-component {
   position: relative;
   display: flex;
   flex-direction: column;
+  height: 714px;
 }
 
 @media screen and (max-width: 989px) {
