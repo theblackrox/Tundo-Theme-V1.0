@@ -1033,7 +1033,8 @@ summary::-webkit-details-marker {
 
 .grid--1-col .grid__item {
   max-width: 100%;
-  width: 50%;
+  width: 39%;
+  margin-left: 5px;
 }
 
 .grid--3-col .grid__item {
