@@ -1,15 +1,23 @@
 {
   "sections": {
+    "1655201411e214c076": {
+      "type": "tundo-logo",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-list-collections",
       "settings": {
         "title": "Collections",
         "sort": "alphabetical",
-        "image_ratio": "square"
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "columns_mobile": "2"
       }
     }
   },
   "order": [
+    "1655201411e214c076",
     "main"
   ]
 }
