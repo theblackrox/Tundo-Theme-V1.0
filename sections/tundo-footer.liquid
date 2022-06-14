@@ -1,0 +1,102 @@
+<style>
+    .tundo-footer{
+        margin-top: -450px;
+        position: absolute;
+        z-index: 1;
+    }
+
+    .bottomleft {
+        font-family: 'ABC Monument Grotesk';
+        position: fixed;
+         bottom: 25px;
+         left: 16px;
+         font-size: 12px;
+         color: black;
+         text-decoration: none;
+         font-weight: 700;
+}
+
+.bottomleft2 {
+        font-family: 'ABC Monument Grotesk';
+        position: fixed;
+         bottom: 8px;
+         left: 16px;
+         font-size: 12px;
+         color: black;
+         text-decoration: none;
+         font-weight: 700;
+}
+
+.bottomcenter {
+        
+        font-family: 'ABC Monument Grotesk';
+     position: fixed;
+     width: 100%;
+     text-align: center;
+     font-size: 12px;
+    bottom: 25px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.bottomcenter2 {
+    font-family: 'ABC Monument Grotesk';
+     position: fixed;
+     width: 100%;
+     text-align: center;
+     font-size: 12px;
+    bottom: 8px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.bottomright {
+        font-family: 'ABC Monument Grotesk';
+        position: fixed;
+         bottom: 8px;
+         right: 16px;
+         font-size: 12px;
+         color: black;
+         text-decoration: none;
+         font-weight: 700;
+}
+</style>
+
+<footer>
+    <div class="tundo-footer">
+        <a href="" class="bottomleft">SHOP</a>
+    </div>
+    <div class="tundo-footer">
+        <a href="" class="bottomleft2">CAMPAIGNS</a>
+    </div>
+    <div class="tundo-footer">
+        <a href="" class="bottomcenter">CART</a>
+    </div>
+    <div class="tundo-footer">
+        <a href="" class="bottomcenter2">NOME CAMPAGNE</a>
+    </div>
+    <div class="tundo-footer">
+        <a href="" class="bottomright">ABOUT</a>
+    </div>
+</footer>
+
+
+{% schema %}
+{
+   "name": "Tundo Footer",
+  "settings": [
+      {
+         "type": "link_list",
+         "id":"footer_menu",
+         "label": "Footer Menu"
+      }
+  ],
+ "presets": [
+     {
+         "name":"Tundo Footer"
+     }
+ ]
+}
+{% endschema %}
