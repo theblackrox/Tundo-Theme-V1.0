@@ -62,24 +62,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "e0efb809-d755-4d5b-81df-3d16af579c50": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/220202_TUNDO_9533.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "2b86bb89-8d26-49cd-bcee-b2efa4142119": {
           "type": "slide",
           "settings": {
@@ -120,6 +102,24 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/220202_TUNDO_9881.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "e0efb809-d755-4d5b-81df-3d16af579c50": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/220202_TUNDO_9533.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -175,10 +175,10 @@
         "1655020453c66aabba-0",
         "1655020453c66aabba-1",
         "47458df8-3205-46ef-be3d-4c9b56d391a8",
-        "e0efb809-d755-4d5b-81df-3d16af579c50",
         "2b86bb89-8d26-49cd-bcee-b2efa4142119",
         "91a81075-46b4-40d9-b25b-c4015b40b57e",
         "ddc4fa80-de96-456b-a6d8-7912f77c53f4",
+        "e0efb809-d755-4d5b-81df-3d16af579c50",
         "5c7dd7fc-34a9-4215-b2ca-c134bdecafd7",
         "73878e76-af4a-4b96-8ba2-d1c2d5ab9e2c"
       ],
