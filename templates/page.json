@@ -1,7 +1,61 @@
 {
   "sections": {
+    "16552240659d87b9e8": {
+      "type": "multicolumn",
+      "blocks": {
+        "16552240650ed31ed3-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Oriana Tundo, a Swiss native with italian-indian roots, is an Artist <br\/>working in Jewelry and Objects. After operating as a freelance Designer <br\/>she launched her eponymous brand TUNDO in 2022. The first collection is a<br\/> series of repurposed Jewelry fetched all over the world, put together <br\/>in a new way with functional pieces and chains, showing post consumed <br\/>Jewelry in a new wearable way. Her background as a Chemistry Assistant <br\/>and the Swiss metal industry takes a big influence throughout her work -<br\/> Galvanized metal mixes with once-owned achievements and questions the <br\/>decadence of mass consumption. By creating limited collections, TUNDO <br\/>remains on the pulse of the times , keeping up with the constant rapid <br\/>change in fashion, without loosing the identity. Every piece is handmade<br\/> and unique.<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16552240650ed31ed3-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>INSTAGRAM<\/p><p>MAIL<\/p><p>ADRESS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16552240650ed31ed3-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>LEGAL <\/p><p>IMPRINT<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16552240650ed31ed3-0",
+        "16552240650ed31ed3-1",
+        "16552240650ed31ed3-2"
+      ],
+      "settings": {
+        "title": "ABOUT",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -9,6 +63,7 @@
     }
   },
   "order": [
+    "16552240659d87b9e8",
     "main"
   ]
 }
