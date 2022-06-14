@@ -1,5 +1,10 @@
 {
   "sections": {
+    "165522532527b5d328": {
+      "type": "tundo-logo",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -110,7 +115,7 @@
       "settings": {
         "enable_sticky_info": true,
         "gallery_layout": "stacked",
-        "media_size": "large",
+        "media_size": "medium",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -120,6 +125,20 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "blocks": {
+        "9e502a14-0c13-4e61-bf1a-bd6905e7d4ce": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "9e502a14-0c13-4e61-bf1a-bd6905e7d4ce"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -156,6 +175,7 @@
     }
   },
   "order": [
+    "165522532527b5d328",
     "main",
     "multicolumn",
     "product-recommendations"
