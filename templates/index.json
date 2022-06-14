@@ -1,5 +1,10 @@
 {
   "sections": {
+    "165519847578a3291c": {
+      "type": "tundo-logo",
+      "settings": {
+      }
+    },
     "16550204531c7d7b8e": {
       "type": "slideshow",
       "blocks": {
@@ -75,6 +80,7 @@
     }
   },
   "order": [
+    "165519847578a3291c",
     "16550204531c7d7b8e"
   ]
 }

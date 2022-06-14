@@ -1,3 +1,4 @@
-.cointaner-logo {
-    z-index: 100;
-}
+.container-logo {
+    position: relative;
+    z-index: 1;
+  }
