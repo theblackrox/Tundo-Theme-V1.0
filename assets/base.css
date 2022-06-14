@@ -1,3 +1,15 @@
+/*Custom Fonts*/
+
+@font-face {
+  font-family:'MonumentGrotesk Bold' ;
+  src: url('MonumentGrotesk-Bold.otf');
+}
+
+@font-face {
+  font-family:'MonumentGrotesk Medium' ;
+  src: url('MonumentGrotesk-Medium.otf');
+}
+
 /* Color custom properties */
 
 :root,
@@ -1033,7 +1045,7 @@ summary::-webkit-details-marker {
 
 .grid--1-col .grid__item {
   max-width: 100%;
-  width: 39%;
+  width: 36%;
   margin-left: 5px;
 }
 
@@ -2296,10 +2308,8 @@ input[type='checkbox'] {
 
 .header__heading-logo {
   height: auto;
-  width: 100%;
-  position: absolute;
-  left: 0px;
-  padding-inline: 20px;
+  width: 261%;
+  margin-left: -428px !important;
 }
 
 @media screen and (max-width: 989px) {
@@ -2424,6 +2434,7 @@ menu-drawer + .header__search {
   .header:not(.header--top-center) * > .header__search,
   .header--top-center > .header__search {
     display: inline-flex;
+    visibility: hidden;
   }
 
   .header:not(.header--top-center) > .header__search,
@@ -2889,4 +2900,27 @@ details-disclosure > details {
 
 .font-body-bold {
   font-weight: var(--font-body-weight-bold);
+}
+
+.icon.icon-cart-empty {
+  visibility: hidden;
+}
+
+.slideshow__controls.slider-buttons.no-js-hidden {
+  visibility: hidden;
+  }
+
+  
+elemento {
+}
+.slideshow__controls.slider-buttons.no-js-hidden {
+  margin: -50px;
+}
+
+.grid--2-col-tablet .grid__item {
+  width: calc(40% - var(--grid-desktop-horizontal-spacing) / 1);
+}
+
+.header-wrapper.color-background-1.gradient {
+  background: transparent;
 }

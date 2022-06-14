@@ -145,6 +145,11 @@
         "settings": {
           "color_scheme": "background-1"
         }
+      },
+      "tundo-footer": {
+        "type": "tundo-footer",
+        "settings": {
+        }
       }
     },
     "content_for_index": [
