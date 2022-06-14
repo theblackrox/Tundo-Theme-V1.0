@@ -60,7 +60,7 @@ slideshow-component .slideshow.banner {
 
   .grid--1-col .grid__item {
     max-width: 100%;
-    width: 53%;
+    width: 73%;
     margin-left: 5px;
   }
   
@@ -238,4 +238,18 @@ slideshow-component:not(.page-width) .slider-buttons {
   visibility: hidden;
   opacity: 0;
   transform: scale(.8)
+}
+
+@media screen and (max-width: 400px) {
+  .slideshow--placeholder.banner--mobile-bottom.banner--adapt_image .slideshow__media,
+  .slideshow--placeholder.banner--adapt_image:not(.banner--mobile-bottom) {
+    height: 28rem;
+  }
+
+  .header__heading-logo {
+    height: auto;
+    width: 219%;
+    margin-left: -94px !important;
+  }
+  
 }
