@@ -148,7 +148,7 @@
       "tundo-footer": {
         "type": "tundo-footer",
         "settings": {
-          "footer_menu": ""
+          "footer_menu": "main-menu"
         }
       }
     },

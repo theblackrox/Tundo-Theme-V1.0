@@ -71,24 +71,24 @@
 
 <footer>
     <div class="tundo-footer">
-        <a href="/collections/all" class="bottomleft">SHOP</a>
+        <a href="" class="bottomleft">SHOP</a>
     </div>
     <div class="tundo-footer">
-        <a href="{{ routes.collection_url }}" class="bottomleft2">CAMPAIGNS</a>
+        <a href="" class="bottomleft2">CAMPAIGNS</a>
     </div>
     <div class="tundo-footer">
         <a href="{{ routes.cart_url }}" class="bottomcenter">CART ({{ cart.item_count }})</a>
     </div>
     <div class="tundo-footer">
-        <a href="/collections/all" class="bottomcenter2">NOME CAMPAGNE</a>
+        <a href="{{ routes.collection_url }}" class="bottomcenter2">NOME CAMPAGNE</a>
     </div>
     <div class="tundo-footer">
-        <a href="https://www.acc-helvetica.com/pages/about" class="bottomright">ABOUT</a>
+        <a href="/pages/about" class="bottomright">ABOUT</a>
     </div>
 </footer>
 
 
-{% schema %}
+{%  schema  %}
 {
    "name": "Tundo Footer",
   "settings": [
