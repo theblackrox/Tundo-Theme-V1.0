@@ -3,11 +3,11 @@
     "1655357112f411ab9f": {
       "type": "about",
       "settings": {
-        "about_page": "Oriana Tundo, a Swiss native with italian-indian roots, is an Artist working in Jewelry and Objects. After operating as a freelance Designer she launched her eponymous brand TUNDO in 2022. The first collection is a series of repurposed Jewelry fetched all over the world, put together in a new way with functional pieces and chains, showing post consumed Jewelry in a new wearable way. Her background as a Chemistry Assistant and the Swiss metal industry takes a big influence throughout her work - Galvanized metal mixes with once-owned achievements and questions the decadence of mass consumption. By creating limited collections, TUNDO remains on the pulse of the times , keeping up with the constant rapid change in fashion, without loosing the identity. Every piece is handmade and unique."
       }
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
