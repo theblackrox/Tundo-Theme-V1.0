@@ -1,0 +1,34 @@
+ {{ 'section-about.css' | asset_url | stylesheet_tag }}
+
+ <div class="container-about">
+   <div>
+      <a></a>
+   </div>
+   <div>
+    <a href="">@tundo_web</a><br>
+    <a href="">info@tundo.website</a>
+    <a href=""></a>
+   </div>
+   <div>
+    <a href="">LEGAL</a><br>
+    <a href="">IMPRINT</a>
+   </div>
+ </div>
+
+{% schema %}
+{
+   "name": "About",
+  "settings": [
+    {
+     "type": "textarea",
+      "id" : "about_page",
+      "label" : "About Page"
+    }
+  ],
+  "presets": [
+    {
+        "name":"about"
+    }
+  ]
+}
+{% endschema %}
