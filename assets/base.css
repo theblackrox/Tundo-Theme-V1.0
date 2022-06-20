@@ -226,7 +226,7 @@ html.no-js .no-js-hidden {
 }
 
 .page-width {
-  max-width: var(--page-width);
+  /*max-width: var(--page-width);*/
   margin: 0 auto;
   padding: 0 1.5rem;
 }
@@ -681,7 +681,12 @@ hr {
 .full-unstyled-link {
   text-decoration: none;
   color: currentColor;
-  display: block;
+  display: flex;
+  justify-content: center;
+  font-family: 'MonumentGrotesk-Medium';
+  color: black;
+  font-size: 14px;
+  font-weight: 700;
 }
 
 .placeholder {
@@ -2923,4 +2928,32 @@ elemento {
 
 .header-wrapper.color-background-1.gradient {
   background: transparent;
+}
+
+.modal__toggle-open.icon.icon-search {
+  visibility: hidden;
+}
+
+.card__content .price {
+  visibility: hidden;
+}
+
+.center.collection__view-all {
+  visibility: hidden;
+}
+
+.card__inner.color-background-2.gradient.ratio {
+  width: 100%;
+  display: flex;
+  align-self: center;
+}
+
+.collection__description p {
+  font-family: var(--font-body-family);
+  text-align: center;
+  font-weight: 700;
+}
+
+.card__inner.color-background-2.gradient.ratio {
+  width: 70%;
 }

@@ -16,3 +16,10 @@
     }
     
 }
+
+.tundo-about-font {
+    font-family: var(--font-body-family);
+    color: black;
+    text-decoration: none;
+}
+

@@ -15,7 +15,7 @@
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
     "body_scale": 100,
-    "page_width": 1200,
+    "page_width": 1000,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
@@ -106,8 +106,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 250,
-          "logo_position": "middle-left",
+          "logo_width": 50,
+          "logo_position": "top-left",
           "menu": "",
           "menu_type_desktop": "dropdown",
           "show_line_separator": false,
@@ -148,7 +148,7 @@
       "tundo-footer": {
         "type": "tundo-footer",
         "settings": {
-          "footer_menu": "main-menu"
+          "footer_menu": ""
         }
       }
     },
