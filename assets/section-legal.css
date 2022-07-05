@@ -1,0 +1,26 @@
+.container-legal {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 50px;
+    font-family:  'ABC Monument Grotesk';
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width: 768px) {
+
+    .container-legal {
+        display: flex;
+        padding-inline: 50px;
+        font-family:  'ABC Monument Grotesk';
+    }
+    
+}
+
+.tundo-legal-font {
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+

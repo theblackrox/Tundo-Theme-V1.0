@@ -1,0 +1,34 @@
+{
+  "sections": {
+    "1655357112f411ab9f": {
+      "type": "about",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "165700604417431c23": {
+      "type": "tundo-logo",
+      "settings": {
+      }
+    },
+    "16570110144ecc2179": {
+      "type": "tundo-legal",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1655357112f411ab9f",
+    "main",
+    "165700604417431c23",
+    "16570110144ecc2179"
+  ]
+}
