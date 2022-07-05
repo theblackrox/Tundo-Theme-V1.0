@@ -1,10 +1,5 @@
 {
   "sections": {
-    "165701287934a7ab73": {
-      "type": "tundo-logo",
-      "settings": {
-      }
-    },
     "1655357112f411ab9f": {
       "type": "about",
       "settings": {
@@ -20,7 +15,6 @@
     }
   },
   "order": [
-    "165701287934a7ab73",
     "1655357112f411ab9f",
     "main"
   ]
