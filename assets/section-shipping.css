@@ -1,0 +1,26 @@
+.container-shipping {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 50px;
+    font-family:  'ABC Monument Grotesk';
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width: 768px) {
+
+    .container-shipping {
+        display: flex;
+        padding-inline: 50px;
+        font-family:  'ABC Monument Grotesk';
+    }
+    
+}
+
+.tundo-shipping-font {
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
