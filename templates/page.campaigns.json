@@ -1,0 +1,75 @@
+{
+  "sections": {
+    "16556711084647f184": {
+      "type": "tundo-logo",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1657140229adf850bd": {
+      "type": "menu-campaigns",
+      "settings": {
+      }
+    },
+    "165714027867fc0b67": {
+      "type": "collection-list",
+      "blocks": {
+        "1657140278aa6575a0-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "t1_2022"
+          }
+        },
+        "1657140278aa6575a0-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "t1x-2022"
+          }
+        },
+        "1657140278aa6575a0-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "t2_2022"
+          }
+        },
+        "c96f0221-8b1c-4976-9b3c-afb6c8ee7962": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "t3-2022"
+          }
+        }
+      },
+      "block_order": [
+        "1657140278aa6575a0-0",
+        "1657140278aa6575a0-1",
+        "1657140278aa6575a0-2",
+        "c96f0221-8b1c-4976-9b3c-afb6c8ee7962"
+      ],
+      "settings": {
+        "title": "Campaigns",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "16556711084647f184",
+    "main",
+    "1657140229adf850bd",
+    "165714027867fc0b67"
+  ]
+}
