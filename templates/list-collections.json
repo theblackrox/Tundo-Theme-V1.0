@@ -16,14 +16,9 @@
         "columns_mobile": "2"
       }
     },
-    "1655678543375dc02b": {
-      "type": "custom-liquid",
-      "disabled": true,
+    "16571379925ed93016": {
+      "type": "menu-campaigns",
       "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "165570616344e226de": {
@@ -32,7 +27,7 @@
         "title": "",
         "heading_size": "h1",
         "description": "<p>Photography: Douglas Mandry<br\/>Hair & Make up: Helve Leal<br\/>Models: Naum, Sharon, Lilith, Kirsi, Akira, Lisa<\/p>",
-        "show_description": false,
+        "show_description": true,
         "description_style": "uppercase",
         "collection": "t1_2022",
         "products_to_show": 12,
@@ -42,7 +37,7 @@
         "view_all_style": "outline",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
@@ -52,12 +47,20 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1657136842dc9f268a": {
+      "type": "tundo-footer",
+      "disabled": true,
+      "settings": {
+        "footer_menu": ""
+      }
     }
   },
   "order": [
     "16556732501829f7cd",
     "main",
-    "1655678543375dc02b",
-    "165570616344e226de"
+    "16571379925ed93016",
+    "165570616344e226de",
+    "1657136842dc9f268a"
   ]
 }

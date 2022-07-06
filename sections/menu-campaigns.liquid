@@ -1,0 +1,34 @@
+{{ 'section-menu-campaigns.css' | asset_url | stylesheet_tag }}
+<br>
+ <div class="container-menu-campaigns">
+   <div>
+      <a class="tundo-campaigns-font" href="">T1_2022 &nbsp &nbsp</a>
+   </div><br>
+   <div>
+    <a class="tundo-campaigns-font" href="">T1X_2022 &nbsp &nbsp<br></a>
+ </div>
+ <div>
+    <a class="tundo-campaigns-font" href="">T2_2022 &nbsp &nbsp<br></a>
+ </div>
+ <div>
+    <a class="tundo-campaigns-font" href="">T3_2022 &nbsp &nbsp<br></a>
+ </div>
+ </div>
+
+{% schema %}
+{
+   "name": "Menucamp",
+  "settings": [
+    {
+   "type": "image_picker",
+      "id" : "MENUCAMP",
+      "label" : "Menu Campaigns"
+    }
+  ],
+  "presets": [
+    {
+        "name":"menucamp"
+    }
+  ]
+}
+{% endschema %}

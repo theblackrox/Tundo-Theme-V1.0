@@ -1,0 +1,21 @@
+.tundo-campaigns-font {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    color: black ;
+}
+
+.container-menu-campaigns {
+    display: flex;
+    justify-content: center;
+  }
+
+  .tundo-campaigns-font:hover {
+    text-decoration-line: underline;
+  }
+
+  .tundo-campaigns-font:active {
+    text-decoration-line: underline;
+  }
