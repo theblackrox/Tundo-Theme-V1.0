@@ -2963,7 +2963,8 @@ elemento {
 .full-unstyled-link {
   font-weight: 700;
   font-family: sans-serif;
-  font-size: 11px;
+  font-size: 20px;
+  color: black;
 }
 
 .shopify-payment-button__button.shopify-payment-button__button--unbranded._2ogcW-Q9I-rgsSkNbRiJzA._2EiMjnumZ6FVtlC7RViKtj._2-dUletcCZ2ZL1aaH0GXxT {
