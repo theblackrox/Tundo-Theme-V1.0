@@ -8,13 +8,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -103,7 +96,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "caption",
         "price",
@@ -120,16 +112,17 @@
       "settings": {
         "enable_sticky_info": true,
         "gallery_layout": "stacked",
-        "media_size": "large",
-        "mobile_thumbnails": "hide",
+        "media_size": "small",
+        "mobile_thumbnails": "show",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
+        "padding_top": 16,
+        "padding_bottom": 40
       }
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",

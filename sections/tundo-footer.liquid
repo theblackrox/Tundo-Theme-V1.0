@@ -5,7 +5,7 @@
         z-index: 100;
     }
 
-    .bottomleft {
+.bottomleft {
         font-family: 'ABC Monument Grotesk';
         position: fixed;
          bottom: 25px;
@@ -71,9 +71,6 @@
 
 <footer>
     <div class="tundo-footer">
-        <a href="/collections/all" class="bottomleft">SHOP</a>
-    </div>
-    <div class="tundo-footer">
         <a href="/pages/campaigns-t1_2022" class="bottomleft2">CAMPAIGNS</a>
     </div>
     <div class="tundo-footer">
@@ -81,6 +78,9 @@
     </div>
     <div class="tundo-footer">
         <a href="{{ routes.cart_url }}" class="bottomcenter">CART ({{ cart.item_count }})</a>
+    </div>
+    <div class="tundo-footer">
+        <a href="/collections/all" class="bottomleft">SHOP</a>
     </div>
     <div class="tundo-footer">
         <a href="/pages/about" class="bottomright">ABOUT</a>

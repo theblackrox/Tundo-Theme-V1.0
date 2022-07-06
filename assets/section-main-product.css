@@ -660,14 +660,14 @@ a.product__text {
   box-shadow: 0 0 0 0.3rem rgb(var(--color-background)), 0 0 0rem 0.5rem rgba(var(--color-foreground), 0.5);
   border-radius: var(--media-radius);
 }
-
+/*modificato*/
 .product-media-modal {
   background-color: rgb(var(--color-background));
   height: 100%;
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 60%;
   visibility: hidden;
   opacity: 0;
   z-index: -1;
