@@ -9,9 +9,9 @@
     margin-left: 31%;
   }
 
-  @media screen and (min-width: 750px) {
-    campaigns-image {
-        width: 100%;
-        margin-left: 0px;
+  @media screen and (max-width: 750px) {
+    #campaigns-image {
+        width: 115%;
+        margin-left: 18%;
     }
   }
