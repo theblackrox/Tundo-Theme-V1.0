@@ -3004,11 +3004,12 @@ elemento {
 
 .cart__empty-text {
   font-size: 16px;
-  font-family: 'ABC Monument Grotesk';
+  font-family: var(--font-body-family);
 }
 
 .title.title--primary {
   font-size: 12px;
+  font-family: var(--font-body-family);
 }
 
 .underlined-link {
@@ -3029,11 +3030,7 @@ elemento {
   font-family: var(--font-body-family);
 
 }
-  
-.section-template--16201427091681__165714065516a7ffc6-padding {
-  margin-left: 20px;
-  font-family: 'ABC Monument Grotesk';
-  font-weight: 500;
-  font-size: 12px;
-  color:black;
-  }
+
+#cart-icon-bubble {
+  display: none;
+}
