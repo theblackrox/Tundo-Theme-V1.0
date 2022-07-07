@@ -2979,17 +2979,17 @@ elemento {
   visibility: hidden;
 }
 
-.section-template--16201370992865__165714065516a7ffc6-padding {
-  font-size: 12px;
-  font-family: sans-serif;
-  font-weight: 700;
-  margin-left: 12px;¨
-  color: black;
-}
-
 .product.product--small.product--stacked.grid.grid--1-col.grid--2-col-tablet {
   display: ruby;
   /*flex-direction: row-reverse;*/
   padding: 0;
   list-style: none;
+}
+  
+.section-template--16201427091681__165714065516a7ffc6-padding {
+  margin-left: 20px;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  color:black;
 }
