@@ -11,7 +11,7 @@
 
   @media screen and (min-width: 750px) {
     campaigns-image {
-        width: 65%;
+        width: 100%;
         margin-left: 0px;
     }
   }
