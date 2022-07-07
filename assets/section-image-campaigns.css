@@ -8,3 +8,10 @@
     text-align: center;
     margin-left: 31%;
   }
+
+  @media screen and (min-width: 750px) {
+    campaigns-image {
+        width: 65%;
+        margin-left: 0px;
+    }
+  }
