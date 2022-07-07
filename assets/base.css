@@ -3015,3 +3015,17 @@ elemento {
   text-transform: uppercase;
   font-size: 12px;
 }
+
+::selection {
+
+  background-color: rgba(var(--color-foreground),.2);
+
+}
+elemento {
+
+}
+.cart-item__name.h4.break {
+
+  font-family: var(--font-body-family);
+
+}
