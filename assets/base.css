@@ -1,13 +1,13 @@
 /*Custom Fonts*/
 
 @font-face {
-  font-family:'MonumentGrotesk Bold' ;
-  src: url('MonumentGrotesk-Bold.otf');
+  font-family:'sans-serif' ;
+  /*src: url('MonumentGrotesk-Bold.otf');*/
 }
 
 @font-face {
-  font-family:'MonumentGrotesk Medium' ;
-  src: url('MonumentGrotesk-Medium.otf');
+  font-family:'sans-serif' ;
+ /* src: url('MonumentGrotesk-Medium.otf');*/
 }
 
 /* Color custom properties */
@@ -2985,17 +2985,22 @@ elemento {
   padding: 0;
   list-style: none;
 }
-  
-.section-template--16201427091681__165714065516a7ffc6-padding {
+
+.badge.badge--bottom-left.color-background-1 {
+  border: none;
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+
+.section-template--16201370992865__165714065516a7ffc6-padding {
   margin-left: 20px;
   font-family: sans-serif;
   font-weight: 700;
   font-size: 12px;
   color:black;
 }
-  
-.badge.badge--bottom-left.color-background-1 {
-  border: none;
-  text-transform: uppercase;
+
+.cart__empty-text {
+  font-size: 16px;
   font-family: sans-serif;
 }
