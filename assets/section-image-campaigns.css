@@ -13,5 +13,6 @@
     #campaigns-image {
         width: 100%;
         margin-left: 22%;
+        overflow: hidden;
     }
   }
