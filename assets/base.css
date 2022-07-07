@@ -1,13 +1,13 @@
 /*Custom Fonts*/
 
 @font-face {
-  font-family:'sans-serif' ;
-  /*src: url('MonumentGrotesk-Bold.otf');*/
+  font-family:'ABC Monument Grotesk' ;
+  src: url('MonumentGrotesk-Bold.otf');
 }
 
 @font-face {
-  font-family:'sans-serif' ;
- /* src: url('MonumentGrotesk-Medium.otf');*/
+  font-family:'ABC Monument Grotesk' ;
+ src: url('MonumentGrotesk-Medium.otf');
 }
 
 /* Color custom properties */
@@ -376,7 +376,7 @@ body,
 .text-body {
   font-size: 1.5rem;
   letter-spacing: 0.06rem;
-  line-height: calc(1 + 0.8 / var(--font-body-scale));
+  line-height: calc(1 + 0.2 / var(--font-body-scale));
   font-family: var(--font-body-family);
   font-style: var(--font-body-style);
   font-weight: var(--font-body-weight);
@@ -398,7 +398,7 @@ h5,
   font-weight: var(--font-heading-weight);
   letter-spacing: calc(var(--font-heading-scale) * 0.06rem);
   color: rgb(var(--color-foreground));
-  line-height: calc(1 + 0.3 / max(1, var(--font-heading-scale)));
+  line-height: calc(1 + 0.2 / max(1, var(--font-heading-scale)));
   word-break: break-word;
 }
 
@@ -2961,8 +2961,8 @@ elemento {
 }
 
 .full-unstyled-link {
-  font-weight: 700;
-  font-family: sans-serif;
+  font-weight: 400;
+  font-family: 'ABC Monument Grotesk';
   font-size: 12px;
   color: black;
 }
@@ -2989,19 +2989,20 @@ elemento {
 .badge.badge--bottom-left.color-background-1 {
   border: none;
   text-transform: uppercase;
-  font-family: sans-serif;
-  font-size:11px;
+  font-family: 'ABC Monument Grotesk';
+  font-size:10px;
+  background: transparent;
 }
 
 .section-template--16201370992865__165714065516a7ffc6-padding {
   margin-left: 20px;
-  font-family: sans-serif;
-  font-weight: 700;
+  font-family: 'ABC Monument Grotesk';
+  font-weight: 500;
   font-size: 12px;
   color:black;
 }
 
 .cart__empty-text {
   font-size: 16px;
-  font-family: sans-serif;
+  font-family: 'ABC Monument Grotesk';
 }

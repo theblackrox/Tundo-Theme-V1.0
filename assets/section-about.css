@@ -5,6 +5,7 @@
     font-family:  'ABC Monument Grotesk';
     text-decoration: none;
     color: black;
+    font-weight: 300;
 }
 
 @media screen and (max-width: 768px) {
@@ -12,7 +13,8 @@
     .container-about {
         display: flex;
         padding-inline: 50px;
-        font-family:  'sans-serif';
+        font-family:'ABC Monument Grotesk';
+        font-weight: 300;
     }
     
 }
@@ -20,7 +22,7 @@
 .tundo-about-font {
     color: black;
     text-decoration: none;
-    font-family: sans-serif;
-    font-size: 13px;
+    font-family:'ABC Monument Grotesk';
+    font-size: 11px;
 }
 
