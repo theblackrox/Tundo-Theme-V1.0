@@ -3068,3 +3068,11 @@ h1 {
 .product__media.media.media--transparent.gradient.global-media-settings {
   padding-top: 87.0% !important;
 }
+
+@media screen and (max-width:750px) {
+
+  #MainContent {
+    overflow: hidden;
+  }
+  
+}
