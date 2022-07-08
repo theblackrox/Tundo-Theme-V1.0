@@ -3122,7 +3122,3 @@ h1 {
 .badge.price__badge-sold-out.color-background-1 {
   display: none;
 }
-
-.grid--1-col .grid__item {
-  max-width: 85%;
-}
