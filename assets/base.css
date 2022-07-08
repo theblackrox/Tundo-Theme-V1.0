@@ -3118,3 +3118,7 @@ h1 {
     font-size: 8px !important;
   }
 }
+
+.badge.price__badge-sold-out.color-background-1 {
+  display: none;
+}
