@@ -3094,6 +3094,7 @@ h1 {
 
   .tundo-legal-font {
     font-size: 8px !important;
+    line-height: 2.5 !important;
   }
 
   .tundo-shipping-font {
