@@ -133,7 +133,7 @@
     "165714065516a7ffc6": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "Photography: Douglas Mandry<br>Hair\n & Make up: Helve Leal<br>Models: Naum, Sharon, Lilith, Kirsi, Akira, Lisa\n<br>\n<br>\n<br>",
+        "custom_liquid": "Photography &nbsp &nbsp Douglas Mandry<br>Hair\n & Make up &nbsp &nbsp Helve Leal<br>Models &nbsp &nbsp Naum, Sharon, Lilith, Kirsi, Akira, Lisa\n<br>\n<br>\n<br>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
