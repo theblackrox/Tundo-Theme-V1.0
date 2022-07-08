@@ -3085,11 +3085,18 @@ h1 {
 
   .container-legal {
     padding-inline: 4px !important;
-    font-size: 9px;
+    font-size: 8px;
   }
   
   .container-shipping {
     padding-inline: 4px !important;
-    font-size: 9px;
+  }
+
+  .tundo-legal-font {
+    font-size: 8px;
+  }
+
+  .tundo-shipping-font {
+    font-size: 8px;
   }
 }
