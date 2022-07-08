@@ -3128,3 +3128,7 @@ h1 {
     margin: -229px;
 }
 }
+
+.payment-due__currency.remove-while-loading {
+  display: none;
+}
