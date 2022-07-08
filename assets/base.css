@@ -3093,10 +3093,10 @@ h1 {
   }
 
   .tundo-legal-font {
-    font-size: 8px;
+    font-size: 8px !important;
   }
 
   .tundo-shipping-font {
-    font-size: 8px;
+    font-size: 8px !important;
   }
 }
