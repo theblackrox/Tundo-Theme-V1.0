@@ -3080,7 +3080,6 @@ h1 {
   }
 
   .container-about {
-    padding-inline: 10px;
+    padding-inline: 10px !important;
   }
-  
 }
