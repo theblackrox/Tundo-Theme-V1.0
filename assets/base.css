@@ -3122,3 +3122,9 @@ h1 {
 .badge.price__badge-sold-out.color-background-1 {
   display: none;
 }
+
+@media screen and (min-width: 990px) {
+  .slideshow__controls.slider-buttons.no-js-hidden {
+    margin: -229px;
+}
+}
