@@ -3078,5 +3078,9 @@ h1 {
   .grid--1-col .grid__item {
     margin-left: 20px;
   }
+
+  .container-about {
+    padding-inline: 10px;
+  }
   
 }
