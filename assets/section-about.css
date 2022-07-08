@@ -17,8 +17,8 @@
         font-weight: 300;
     }
 
-    .product__info-wrapper grid__item {
-        padding-left: 20px;
+    .grid--1-col .grid__item {
+        margin-left: 20px;
       }
     
 }
