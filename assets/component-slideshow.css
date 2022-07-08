@@ -2,7 +2,7 @@ slideshow-component {
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  margin-top: -227px;
+  margin-top: -160px;
   min-width: 100%;
   max-height: 109vh;
   object-fit: cover;
