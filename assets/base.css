@@ -3103,8 +3103,8 @@ h1 {
   }
 
   #campaigns-image {
-    width: 150%;
-    margin-left: 7%;
+    width: 150% !important;
+    margin-left: 7% !important;
     overflow: hidden;
   }
 }
