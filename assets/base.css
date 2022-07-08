@@ -3069,6 +3069,8 @@ h1 {
   padding-top: 87.0% !important;
 }
 
+/*Vista Cellulare Iphone 12 Pro Max*/
+
 @media screen and (max-width:750px) {
 
   #MainContent {
@@ -3106,5 +3108,9 @@ h1 {
     width: 150% !important;
     margin-left: 7% !important;
     overflow: hidden;
+  }
+
+  .product-media-modal {
+    width: 100% !important;
   }
 }
