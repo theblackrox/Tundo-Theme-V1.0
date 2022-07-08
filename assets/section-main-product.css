@@ -1183,3 +1183,25 @@ a.product__text {
   margin-left: 1.2rem;
   flex-shrink: 0;
 }
+
+/*CUSTOM*/
+.product-form__submit.button.button--full-width.button--primary {
+  display: flex;
+  justify-content: left;
+  background: transparent;
+  color: black;
+  font-family: var(--font-body-family);
+  text-transform: uppercase;
+  text-decoration: underline;
+  padding: 0px;
+}
+
+.product__description.rte.quick-add-hidden {
+  font-family: var(--font-body-family);
+  font-size: 11px;
+  color: black;
+}
+
+.product__tax.caption.rte {
+  color: black;
+}
