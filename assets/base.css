@@ -3074,5 +3074,9 @@ h1 {
   #MainContent {
     overflow: hidden;
   }
+
+  .grid--1-col .grid__item {
+    margin-left: 20px;
+  }
   
 }
