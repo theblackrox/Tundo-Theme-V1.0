@@ -3113,4 +3113,8 @@ h1 {
   .product-media-modal {
     width: 100% !important;
   }
+
+  .product__description.rte.quick-add-hidden {
+    font-size: 8px !important;
+  }
 }
