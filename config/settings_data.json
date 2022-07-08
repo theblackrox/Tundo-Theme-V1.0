@@ -97,6 +97,7 @@
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
     "cart_type": "page",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Logo_Tundo_6193_27fb5bb1-6024-4e29-80c0-c1d9edbe8aa2.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

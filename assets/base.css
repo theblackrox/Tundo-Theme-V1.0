@@ -1982,7 +1982,7 @@ input[type='checkbox'] {
   right: var(--inputs-border-width);
   bottom: var(--inputs-border-width);
   left: var(--inputs-border-width);
-  border: 0.1rem solid transparent;
+  border: 0.1rem solid black;
   border-radius: var(--inputs-radius);
   box-shadow: 0 0 0 var(--inputs-border-width) rgba(var(--color-foreground), var(--inputs-border-opacity));
   transition: box-shadow var(--duration-short) ease;
@@ -2994,7 +2994,7 @@ elemento {
   background: transparent;
 }
 
-.section-template--16201427091681__165714065516a7ffc6-padding {
+.section-template--16201370992865__165714065516a7ffc6-padding {
   margin-left: 20px;
   font-family: 'ABC Monument Grotesk';
   font-weight: 500;
@@ -3010,6 +3010,7 @@ elemento {
 .title.title--primary {
   font-size: 12px;
   font-family: var(--font-body-family);
+  text-transform: uppercase;
 }
 
 .underlined-link {
@@ -3033,4 +3034,28 @@ elemento {
 
 #cart-icon-bubble {
   display: none;
+}
+
+.caption-with-letter-spacing {
+  color: black;
+}
+
+.tax-note.caption-large.rte {
+  font-family: var(--font-body-family);
+  color: black;
+}
+
+.totals__subtotal {
+  font-family: var(--font-body-family);
+}
+
+.totals__subtotal-value {
+  font-size: 1.6rem;
+  color: black;
+}
+
+.shopify-policy__container {
+  font-family: var(--font-body-family);
+  color: black;
+  font-size: 14px;
 }
