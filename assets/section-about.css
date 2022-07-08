@@ -17,7 +17,7 @@
         font-weight: 300;
     }
 
-    #ProductInfo-template--16109884309729__main {
+    .product__info-wrapper grid__item {
         padding-left: 20px;
       }
     
